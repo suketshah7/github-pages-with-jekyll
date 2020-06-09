@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Suket Shah's Website
+author: Suket Shah
+email: skshah@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website is for an APCS project that is due on June 12, 2020. I have to include my name, picture, social media information, and my brag sheet.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: suketshah3
+github_username:  suketshah7
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
