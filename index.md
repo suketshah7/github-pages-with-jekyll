@@ -1,3 +1,3 @@
-# Welcome to my blog
+# AP Computer Science Final Website Project
 
-I'm glad you are here. I plan to talk about ...
+This is Suket Shah's website for the APCS Website Project.
